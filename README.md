@@ -4,3 +4,5 @@ Este es un blog de practica para aprender a manejar
 
 ### **Aqui Podemos Colaborar Con Este Proyecto**
 *creado por el increible levi nuñez
+*incluye ejemploen otras plataformas
+*disponible para todas las edades
